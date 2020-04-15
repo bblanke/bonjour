@@ -1,6 +1,6 @@
 {
   "name": "bonjour",
-  "version": "3.6.0",
+  "version": "3.6.1",
   "description": "A Bonjour/Zeroconf implementation in pure JavaScript. Supports multiple network interfaces and IPv6",
   "main": "index.js",
   "dependencies": {
